@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Consultor de Cerveja</string>
+    <string name="sel_tipo">Selecione um tipo de cerveja</string>
+    <string name="action_settings">Settings</string>
+    <string name="buscar_cerveja">Encontrar Cerveja!</string>
+    <string name="marcas">Marcas</string>
+    <string-array name="cerveja_colors">
+        <item>lager</item>
+        <item>pilsen</item>
+        <item>ipa</item>
+        <item>bock</item>
+        <item>amber</item>
+        <item>weiss</item>
+    </string-array>
+</resources>
